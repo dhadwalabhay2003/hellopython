@@ -1,0 +1,13 @@
+name=input("Enter the name: ")
+roll=int(input("Enter the roll number: "))
+gender=input("Enter the gender: ")
+age=int(input("Enter the age: "))
+
+print("Name of the student is: ", name)
+print("Roll number of the student is: ", roll)
+print("Gender of the student is: ", gender)
+print("Age of the student is: ", age)
+print("type of variable name=", type(name))
+print("type of roll: ", type(roll))
+print("type of gender: ", type(gender))
+print("type of age: ", type(age))
